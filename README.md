@@ -1,3 +1,3 @@
 # bsoup_scraping
 
-#### scraping exercice Python + BeautifulSoup
+#### scraping exercise Python + BeautifulSoup
